@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Make Me Fit",
+    "description": "Calculate calorie count for your meal items.",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon2.png",
+        "48": "icon3.png",
+        "128": "icon4.png"
+      }
+    },
+    "icons": {
+      "16": "icon2.png",
+      "48": "icon3.png",
+      "128": "icon4.png"
+    }
+  }
+  
